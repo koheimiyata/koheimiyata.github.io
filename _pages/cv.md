@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in GitHub, Kansai University, 2010
+* M.S. in Jekyll, Kagoshima University, 2012
+* Ph.D in Version Control Theory, The University of Tokyo, 2015
 
 Work experience
 ======
@@ -22,19 +22,18 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MATLAB
+* Neuro imaging analysis
+  * fMRI
+  * DTI
+  * EEG
+* Motion capture analysis
+  * DeepLabCut
+  * OpenFace
+  * OpenPose
 
 Publications
 ======
@@ -56,4 +55,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Review Editor, Frontiers in Human Neuroscience | Interacting Minds and Brains 
+* Manager, Japan Society for Dance Sciences
