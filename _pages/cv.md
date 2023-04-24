@@ -11,22 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, Kansai University, 2010
-* M.S. in Jekyll, Kagoshima University, 2012
-* Ph.D in Version Control Theory, The University of Tokyo, 2015
+* B.S. in Arts, Kansai University, 2010
+* M.S. in Medicine, Kagoshima University, 2012
+* Ph.D in Sports Science, The University of Tokyo, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September, 2019 - : Assistant Professor
+  * Graduate School of Arts and Sciences, The University of Tokyo
+  * Supervisor: Professor Dr. Kazutoshi Kudo
 
+* April 2016 - August, 2019: Postdoctoral Fellow
+  * Department of System Neuroscience, National Institute for Physiological Sciences
+  * Supervisor: Professor Dr. Norihiro Sadato
+  
+ * June, 2015 - March, 2016: Visiting Researcher
+  * MARCS Institute, Western Sydney University
+  * Supervisor: Professor Dr. Peter E. Keller
+
+* April, 2014 - March, 2016: Research Assistant
+  * Graduate School of Arts and Sciences, The University of Tokyo
+  * Supervisor: Professor Dr. Kudo Kazutoshi
   
 Skills
 ======
 * MATLAB
-* Neuro imaging analysis
+* Neuroimaging analysis
   * fMRI
   * DTI
   * EEG
@@ -55,5 +65,5 @@ Teaching
   
 Service and leadership
 ======
-* Review Editor, Frontiers in Human Neuroscience | Interacting Minds and Brains 
+* Review Editor, Frontiers in Human Neuroscience, Interacting Minds and Brains 
 * Manager, Japan Society for Dance Sciences
