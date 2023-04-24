@@ -25,7 +25,7 @@ Work experience
   * Department of System Neuroscience, National Institute for Physiological Sciences
   * Supervisor: Professor Dr. Norihiro Sadato
   
- * June, 2015 - March, 2016: Visiting Researcher
+* June, 2015 - March, 2016: Visiting Researcher
   * MARCS Institute, Western Sydney University
   * Supervisor: Professor Dr. Peter E. Keller
 
