@@ -17,25 +17,28 @@ Education
 
 Work experience
 ======
-* September, 2019 - : Assistant Professor
+* September 2019 - : Assistant Professor
   * Graduate School of Arts and Sciences, The University of Tokyo
   * Supervisor: Professor Dr. Kazutoshi Kudo
 
-* April 2016 - August, 2019: Postdoctoral Fellow
+* April 2016 - August 2019: Postdoctoral Fellow
   * Department of System Neuroscience, National Institute for Physiological Sciences
   * Supervisor: Professor Dr. Norihiro Sadato
   
-* June, 2015 - March, 2016: Visiting Researcher
+* June 2015 - March 2016: Visiting Researcher
   * MARCS Institute, Western Sydney University
   * Supervisor: Professor Dr. Peter E. Keller
 
-* April, 2014 - March, 2016: Research Assistant
+* April 2014 - March 2016: Research Assistant
   * Graduate School of Arts and Sciences, The University of Tokyo
   * Supervisor: Professor Dr. Kudo Kazutoshi
   
 Skills
 ======
-* MATLAB
+* Programming
+  * MATLAB
+  * R
+  * Python
 * Neuroimaging analysis
   * fMRI
   * DTI
