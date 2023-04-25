@@ -11,6 +11,6 @@ citation: 'Miyata, K., & Kudo, K. (2014) &quot;Mutual stabilization of rhythmic 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115495)
 
 Recommended citation: Miyata, K., & Kudo, K. (2014). "Mutual stabilization of rhythmic vocalization and whole-body movement" <i>PLoS ONE</i>. 9(12), e115495.
