@@ -16,13 +16,14 @@ author_profile: true
   {% assign authors_html = pub.authors | replace: "Miyata, K.", "<strong>Miyata, K.</strong>" %}
 
   <li style="margin-bottom: 1.5em;">
-    {{ authors_html }} ({{ pub.year }}). <br>
+    <br>
     {% if pub.doi != "" %}
       <a href="{{ pub.doi }}"><strong>{{ pub.title }}</strong></a>.
     {% else %}
       <strong>{{ pub.title }}</strong>.
     {% endif %}
     <br>
+    {{ authors_html }} ({{ pub.year }}) 
     <em>{{ pub.journal }}</em>{% if pub.volume %}, <em>{{ pub.volume }}</em>{% endif %}{% if pub.issue %}({{ pub.issue }}){% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}.
   </li>
 {% endfor %}
