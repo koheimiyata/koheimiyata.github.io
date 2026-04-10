@@ -22,7 +22,7 @@ author_profile: true
     {% endif %}
     <br>
     {% comment %} 2. 著者名（YAML側の<b>タグをそのまま出力） {% endcomment %}
-    {{ pub.authors }} ({{ pub.year }})<br>
+    {{ pub.authors }} ({{ pub.year }}).<br>
     {% comment %} 3. 雑誌名, 巻(号), ページ. {% endcomment %}
     <em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.issue %}({{ pub.issue }}){% endif %}, {{ pub.pages }}.
   </li>
