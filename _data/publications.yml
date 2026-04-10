@@ -1,21 +1,30 @@
 # _data/publications.yml
 
-- title: "Interpersonal neural network for spontaneous motor synchrony: A fMRI hyperscanning study"
-  authors: "Kohei Miyata, et al."
-  journal: "NeuroImage (Sample - Please check actual journal)"
-  year: 2024
-  doi: "https://doi.org/10.1016/j.neuroimage.2024.120563"
+- title: "Vocal interaction during rhythmic joint action stabilizes interpersonal coordination and individual movement timing"
+  authors: "Miyata, K., Varlet, M., Miura, A., Kudo, K., & Keller, P. E."
+  journal: "Journal of Experimental Psychology: General"
+  year: 2021
+  volume: "150"
+  issue: "2"
+  pages: "385-394"
+  doi: "https://doi.org/10.1037/xge0000835"
   type: "journal"
 
 - title: "Body-color synchronization in traditional Japanese music performance"
-  authors: "Kohei Miyata, et al."
+  authors: "Miyata, K., Varlet, M., Miura, A., Kudo, K., & Keller, P. E."
   journal: "Scientific Reports (Sample - Please check actual journal)"
-  year: 2023
+  year: 2019
+  volume: "280"     # 巻
+  issue: "1"       # 号
+  pages: "120563"
   doi: "https://doi.org/10.1038/s41598-023-xxxxx"
   type: "journal"
 
 - title: "Development of a hand-tracking recording system for Apple Vision Pro"
-  authors: "Kohei Miyata"
-  journal: "Technical Report / GitHub"
-  year: 2023
+  authors: "Miyata, K., Varlet, M., Miura, A., Kudo, K., & Keller, P. E."
+  journal: "Scientific Reports"
+  year: 2017
+  volume: "280"     # 巻
+  issue: "1"       # 号
+  pages: "120563"
   doi: "https://github.com/koheimiyata/..."
