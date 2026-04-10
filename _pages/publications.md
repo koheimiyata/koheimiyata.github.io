@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+## Journal Articles & Presentations
+<ol>
+{% for pub in site.data.publications %}
+  <li>
+    **{{ pub.title }}**<br>
+    {{ pub.authors }}<br>
+    *{{ pub.journal }}*, {{ pub.year }} 
+    {% if pub.link %}[[Link]({{ pub.link }})]{% endif %}
+  </li>
 {% endfor %}
+</ol>
