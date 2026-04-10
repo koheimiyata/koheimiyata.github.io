@@ -13,18 +13,18 @@ author_profile: true
 
 <ol>
 {% for pub in site.data.publications %}
-  {% assign authors_html = pub.authors | replace: "Miyata, K.", "<strong>Miyata, K.</strong>" %}
-
   <li style="margin-bottom: 1.5em;">
-    <br>
+    {% comment %} 1. タイトル（DOIリンク） {% endcomment %}
     {% if pub.doi != "" %}
-      <a href="{{ pub.doi }}"><strong>{{ pub.title }}</strong></a>.
+      <a href="{{ pub.doi }}"><strong>{{ pub.title }}</strong></a>
     {% else %}
-      <strong>{{ pub.title }}</strong>.
+      <strong>{{ pub.title }}</strong>
     {% endif %}
     <br>
-    {{ authors_html }} ({{ pub.year }}) 
-    <em>{{ pub.journal }}</em>{% if pub.volume %}, <em>{{ pub.volume }}</em>{% endif %}{% if pub.issue %}({{ pub.issue }}){% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}.
+    {% comment %} 2. 著者名（YAML側の<b>タグをそのまま出力） {% endcomment %}
+    {{ pub.authors }} ({{ pub.year }})<br>
+    {% comment %} 3. 雑誌名, 巻(号), ページ. {% endcomment %}
+    <em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.issue %}({{ pub.issue }}){% endif %}, {{ pub.pages }}.
   </li>
 {% endfor %}
 </ol>
