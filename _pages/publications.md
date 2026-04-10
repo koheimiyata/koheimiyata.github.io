@@ -13,7 +13,8 @@ author_profile: true
 
 <ol>
 {% for pub in site.data.publications %}
-  {% assign authors_bold = pub.authors | replace: "Miyata, K.", "**Miyata, K.**" %}
+  {% comment %} **ではなく<b>タグで置換します {% endcomment %}
+  {% assign authors_bold = pub.authors | replace: "Miyata, K.", "<b>Miyata, K.</b>" %}
 
   <li style="margin-bottom: 1em;">
     {% if pub.doi != "" %}
