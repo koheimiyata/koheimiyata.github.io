@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Journal Articles & Presentations
+## Journal Articles
 
 <ol>
 {% for pub in site.data.publications %}
