@@ -15,8 +15,7 @@ author_profile: true
 
 <ol>
 {% for pub in site.data.publications %}
-  {% comment %} 名前の太字処理（英語・日本語両方に対応） {% endcomment %}
-  {% assign authors_bold = pub.authors | replace: "Kohei Miyata", "**Kohei Miyata**" | replace: "宮田 康平", "**宮田 康平**" %}
+  {% assign authors_bold = pub.authors | replace: "Miyata, K.", "**Miyata, K.**" %}
 
   <li>
     {% if pub.doi != "" %}
