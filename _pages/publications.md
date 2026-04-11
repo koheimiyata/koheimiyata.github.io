@@ -21,10 +21,12 @@ author_profile: true
       <strong>{{ pub.title }}</strong>
     {% endif %}
     <br>
-    {% comment %} 2. 著者名（YAML側の<b>タグをそのまま出力） {% endcomment %}
-    {{ pub.authors }} ({{ pub.year }}).<br>
+    {% comment %} 
+      2. 著者名：HTMLタグを有効にするために「markdownify」フィルタを通します 
+    {% endcomment %}
+    {{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' }} ({{ pub.year }}).<br>
     {% comment %} 3. 雑誌名, 巻(号), ページ. {% endcomment %}
-    <em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.issue %}({{ pub.issue }}){% endif %}, {{ pub.pages }}.
+    <em>{{ pub.journal }}</em>{% if pub.volume %}, <em>{{ pub.volume }}</em>{% endif %}{% if pub.issue %}({{ pub.issue }}){% endif %}, {{ pub.pages }}.
   </li>
 {% endfor %}
 </ol>
