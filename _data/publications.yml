@@ -1,7 +1,7 @@
 # _data/publications.yml
 
 - title: "An experimental paradigm to manipulate physiological arousal using consecutive successes"
-  authors: "Yamamoto, K., Miyata, K., & Kudo, K."
+  authors: "Yamada, K., Miyata, K., & Kudo, K."
   journal: "iScience"
   year: 2025
   volume: "28"
@@ -26,7 +26,7 @@
   volume: "74"
   issue: "6"
   pages: "340-343"
-  type: "review"
+  type: "総説"
 
 - title: "ヒトのリズム同調能力ー正確で柔軟な聴覚運動協調を実現する予測と適応ー "
   authors: "宮田紘平"
@@ -35,7 +35,7 @@
   volume: "80"
   issue: "1"
   pages: "41-47"
-  type: "review"
+  type: "総説"
 
 - title: "Markerless motion capture of hands and fingers in high-speed throwing task and its accuracy verification"
   authors: "Kusafula, A., Tsukamoto, N., Miyata, K., & Kudo, K."
