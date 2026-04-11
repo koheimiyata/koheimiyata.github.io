@@ -1,5 +1,42 @@
 # _data/publications.yml
 
+- title: "Coordination dynamics of thoracic and abdominal movements during voluntary breathing"
+  authors: "Higashino, M., Miyata, K., & Kudo, K."
+  journal: "Scientific Reports"
+  year: 2022
+  volume: "12"
+  issue: "1"
+  pages: " 13266"
+  doi: "https://doi.org/10.1038/s41598-022-17473-9"
+  type: "journal"
+
+- title: "Neural correlates with individual differences in temporal prediction during auditory-motor synchronization"
+  authors: "Miyata, K., Yamamoto, T., Fukunaga, M., Sugawara, S., & Sadato, N."
+  journal: "Cerebral Cortex Communications"
+  year: 2022
+  volume: "3"
+  pages: " 1-11"
+  doi: "https://doi.org/10.1093/texcom/tgac014"
+  type: "journal"
+
+- title: "Multifaceted roles of orexin neurons in mediating methamphetamine-induced changes in body temperature and heart rate"
+  authors: "Miyata, K., Ikoma, Y., Murata, K., Kusumoto-Yoshida, I., Kobayashi, K., Kuwaki, T., & Ootsuka, Y."
+  journal: "IBRO Neuroscience Reports"
+  year: 2022
+  volume: "12"
+  pages: " 108-120"
+  doi: "https://doi.org/10.1016/j.neuroimage.2021.117916"
+  type: "journal"
+
+- title: "Neural substrates for sharing intention in action during face-to-face imitation"
+  authors: "Miyata, K., Koike, T., Nakagawa, E., Harada, T., Sumiya, M., Yamamoto, T., & Sadato, N."
+  journal: "NeuroImage"
+  year: 2021
+  volume: "233"
+  pages: "117916"
+  doi: "https://doi.org/10.1016/j.neuroimage.2021.117916"
+  type: "journal"
+
 - title: "Vocal interaction during rhythmic joint action stabilizes interpersonal coordination and individual movement timing"
   authors: "Miyata, K., Varlet, M., Miura, A., Kudo, K., & Keller, P. E."
   journal: "Journal of Experimental Psychology: General"
@@ -8,6 +45,16 @@
   issue: "2"
   pages: "385-394"
   doi: "https://doi.org/10.1037/xge0000835"
+  type: "journal"
+
+- title: "Achieving affective human-virtual agent communication by enabling virtual agents to imitate positive expressions"
+  authors: "Numata, T., Sato, H., Asa, Y., Koike, T., Miyata, K., Nakagawa, E., Sumiyta, M., & Sadato, N."
+  journal: "Scientific Reports"
+  year: 2020
+  volume: "10"
+  issue: "1"
+  pages: "5977"
+  doi: "https://doi.org/10.1038/s41598-020-62870-7"
   type: "journal"
 
 - title: "Interpersonal visual interaction induces local and global stabilisation of rhythmic coordination"
@@ -27,3 +74,23 @@
   issue: "1"
   pages: "16220"
   doi: "https://doi.org/10.1038/s41598-017-16151-5"
+  type: "journal"
+
+- title: "The integrated ultradian organization of behavior and physiology in mice and the contribution of orexin to the ultradian patterning"
+  authors: "Miyata, K., Kuwaki, T., & Ootsuka, Y."
+  journal: "Neuroscience"
+  year: 2016
+  volume: "334"
+  pages: "119-133"
+  doi: "https://doi.org/10.1016/j.neuroscience.2016.07.041"
+  type: "journal"
+
+- title: "Mutual stabilization of rhythmic vocalization and whole-body movement"
+  authors: "Miyata, K. & Kudo, K."
+  journal: "PLoS ONE"
+  year: 2014
+  volume: "9"
+  issue: "12"
+  pages: "e115495"
+  doi: "https://doi.org/10.1371/journal.pone.0115495"
+  type: "journal"
