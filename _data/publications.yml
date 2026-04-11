@@ -1,12 +1,40 @@
 # _data/publications.yml
 
+- title: "An experimental paradigm to manipulate physiological arousal using consecutive successes"
+  authors: "Yamamoto, K., Miyata, K., & Kudo, K."
+  journal: "iScience"
+  year: 2025
+  volume: "28"
+  issue: "12"
+  pages: "113961"
+  doi: "https://doi.org/10.1016/j.isci.2025.113961"
+  type: "journal"
+
+- title: "Two-dimensional trial-by-trial error correction for accurate baseball pitching"
+  authors: "Kusafula, A., Okegawa, T., Yamamoto, R., Miyata, K., & Kudo, K."
+  journal: "Scientific Reports"
+  year: 2025
+  volume: "15"
+  pages: "12300"
+  doi: "https://doi.org/10.21203/rs.3.rs-3991752/v1"
+  type: "journal"
+
+- title: "Markerless motion capture of hands and fingers in high-speed throwing task and its accuracy verification"
+  authors: "Kusafula, A., Tsukamoto, N., Miyata, K., & Kudo, K."
+  journal: "Mechanical Engineering Journal"
+  year: 2023
+  volume: "10"
+  issue: "6"
+  pages: "1-9"
+  doi: "https://doi.org/10.1299/mej.23-00220"
+  type: "journal"
+
 - title: "Coordination dynamics of thoracic and abdominal movements during voluntary breathing"
   authors: "Higashino, M., Miyata, K., & Kudo, K."
   journal: "Scientific Reports"
   year: 2022
   volume: "12"
-  issue: "1"
-  pages: " 13266"
+  pages: "13266"
   doi: "https://doi.org/10.1038/s41598-022-17473-9"
   type: "journal"
 
@@ -15,7 +43,7 @@
   journal: "Cerebral Cortex Communications"
   year: 2022
   volume: "3"
-  pages: " 1-11"
+  pages: "1-11"
   doi: "https://doi.org/10.1093/texcom/tgac014"
   type: "journal"
 
@@ -24,7 +52,7 @@
   journal: "IBRO Neuroscience Reports"
   year: 2022
   volume: "12"
-  pages: " 108-120"
+  pages: "108-120"
   doi: "https://doi.org/10.1016/j.neuroimage.2021.117916"
   type: "journal"
 
