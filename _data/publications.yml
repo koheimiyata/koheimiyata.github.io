@@ -19,6 +19,24 @@
   doi: "https://doi.org/10.21203/rs.3.rs-3991752/v1"
   type: "journal"
 
+- title: "リズムと運動を結びつける脳の仕組み"
+  authors: "宮田紘平"
+  journal: "体育の科学"
+  year: 2024
+  volume: "74"
+  issue: "6"
+  pages: "340-343"
+  type: "review"
+
+- title: "ヒトのリズム同調能力ー正確で柔軟な聴覚運動協調を実現する予測と適応ー "
+  authors: "宮田紘平"
+  journal: "日本音響学会誌"
+  year: 2024
+  volume: "80"
+  issue: "1"
+  pages: "41-47"
+  type: "review"
+
 - title: "Markerless motion capture of hands and fingers in high-speed throwing task and its accuracy verification"
   authors: "Kusafula, A., Tsukamoto, N., Miyata, K., & Kudo, K."
   journal: "Mechanical Engineering Journal"
@@ -28,6 +46,13 @@
   pages: "1-9"
   doi: "https://doi.org/10.1299/mej.23-00220"
   type: "journal"
+
+- title: "White matter microstructural properties correlate with temporal anticipation of sensorimotor synchronization"
+  authors: "Miyata, K., Harry, B. & Keller, P. E."
+  journal: "The e-proceedings of the 17th International Conference on Music Perception and Cognition and the 7th Conference of the Asia-Pacific Society for the Cognitive Sciences of Music"
+  year: 2023
+  pages: "751"
+  type: "proceeding"
 
 - title: "Coordination dynamics of thoracic and abdominal movements during voluntary breathing"
   authors: "Higashino, M., Miyata, K., & Kudo, K."
