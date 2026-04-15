@@ -20,20 +20,8 @@ News & Topics
 <div style="height: 250px; overflow-y: auto; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #fafafa; margin-bottom: 20px;">
   <ul style="list-style-type: none; margin-left: 0; padding-left: 0; font-size: 0.95em;">
     <li style="margin-bottom: 12px; border-bottom: 1px dotted #ccc; padding-bottom: 8px;">
-      <span style="color: #666; font-weight: bold;">2026.04.11</span><br>
-      Our new paper has been accepted for publication in <b>NeuroImage</b>!
-    </li>
-    <li style="margin-bottom: 12px; border-bottom: 1px dotted #ccc; padding-bottom: 8px;">
-      <span style="color: #666; font-weight: bold;">2026.03.15</span><br>
-      Presented our recent findings at the 27th Annual Meeting of Japan Human Brain Mapping in Tokyo.
-    </li>
-    <li style="margin-bottom: 12px; border-bottom: 1px dotted #ccc; padding-bottom: 8px;">
       <span style="color: #666; font-weight: bold;">2026.02.01</span><br>
-      Website updated: Publications and Talks sections are now up to date.
-    </li>
-    <li style="margin-bottom: 12px; border-bottom: 1px dotted #ccc; padding-bottom: 8px;">
-      <span style="color: #666; font-weight: bold;">2025.10.20</span><br>
-      Successfully completed the fMRI hyperscanning experiment with 27 pairs of participants.
+      Website updated: Publications and Presentations sections are now up to date.
     </li>
   </ul>
 </div>
